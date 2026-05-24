@@ -171,10 +171,7 @@ Top N sales =
 
 ---
 
-## 👤 Author
 
-**Parth Patoliya**  
-Data Analyst | Power BI Developer  
 📧 [Gmail](#) | 💼 [LinkedIn](#) | 🐙 [GitHub](#) | 🗂️ [Project Portfolio](#)
 
 ---
