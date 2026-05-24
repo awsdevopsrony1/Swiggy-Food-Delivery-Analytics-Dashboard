@@ -169,7 +169,6 @@ Top N sales =
 
 > **Requirements:** Power BI Desktop (free) — [Download here](https://powerbi.microsoft.com/desktop/)
 
----
 
 
 📧 [Gmail](#) | 💼 [LinkedIn](#) | 🐙 [GitHub](#) | 🗂️ [Project Portfolio](#)
